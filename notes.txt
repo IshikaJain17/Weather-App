@@ -1,0 +1,44 @@
+libraries : 
+
+geopy
+timezonefinder
+pytz
+
+requests,tk
+
+
+
+open weather api to get the data
+We can find weather reports such as temperature, humidity, pressure, wind speed and description etc. of any place in the world. You need to provide the name of a place. Not only this you will also get current time of that place. 
+
+
+
+
+
+
+
+
+
+
+for this we do api call
+An API call, short for Application Programming Interface call, is a request made by one software application to another in order to access a specific set of functions or data. APIs allow different software systems to communicate and interact with each other, enabling them to work together and share information.
+
+Here's how an API call typically works:
+
+1. **Request:** An application (often referred to as the "client") sends a request to another application (often referred to as the "server") through a predefined API endpoint. This request usually includes information such as the type of operation to perform and any necessary parameters.
+
+2. **Processing:** The server processes the request based on the API's specifications. This might involve retrieving data from a database, performing calculations, or executing other tasks.
+
+3. **Response:** After processing the request, the server sends a response back to the client. This response contains the requested data or the result of the operation.
+
+API calls are commonly used in various software development scenarios, such as:
+
+- **Web APIs:** These allow web applications to interact with external services over the internet. For example, a weather application may make API calls to retrieve current weather data from a weather service provider's API.
+
+- **Library APIs:** Programming libraries often provide APIs that developers can use to access their functionality. For instance, a graphics library might offer an API for drawing shapes and images.
+
+- **Operating System APIs:** Operating systems expose APIs that applications can use to interact with hardware and perform system-level tasks. This allows software to manage files, network connections, and other system resources.
+
+- **Third-party APIs:** Many companies and organizations offer APIs that developers can use to integrate their services into their own applications. Examples include social media APIs (e.g., Facebook Graph API), payment gateway APIs (e.g., PayPal API), and mapping APIs (e.g., Google Maps API).
+
+API calls are essential for enabling interoperability and data exchange between different software components and systems, making them a fundamental concept in modern software development.
